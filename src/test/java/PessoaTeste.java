@@ -2,7 +2,7 @@ import com.google.gson.Gson;
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 
-class PessoaTest {
+class PessoaTeste {
 
     Gson gson = new Gson();
 
