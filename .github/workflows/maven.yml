@@ -53,7 +53,7 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: relatorio-teste
-          path: Exercicio_Java/target/site/
+          path: target/site/
 
   notification:
 
